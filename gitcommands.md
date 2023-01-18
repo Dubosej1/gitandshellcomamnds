@@ -9,3 +9,5 @@
 - git log: info on git commits
 
 ## Configuration Commands
+
+- git configure --global
